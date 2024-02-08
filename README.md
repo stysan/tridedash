@@ -1,2 +1,1 @@
-# tridedash
-tridedash
+# Tride Dash Official Website
